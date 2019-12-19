@@ -14,9 +14,9 @@ This workshop is based on a community article [Making a game with NEO + Unity](h
 
 ## Pre-setup
 
-+ [Git]()
++ [Git](https://git-scm.com/downloads)
 
-+ [Docker]()
++ [Docker](https://www.docker.com/products/docker-desktop)
 
 + [Unity](https://store.unity.com/download-nuo)
 
@@ -53,5 +53,5 @@ This workshop is based on a community article [Making a game with NEO + Unity](h
 + **Neo-lux** - Neo C# SDK for Unity
 + **[Online Data Convertor](https://peterlinx.github.io/DataTransformationTools/)**  - Convert various data return from Blockchain
 
-Now, if you want to get your hands dirty, please click [HERE](./Development Process.md)
+Now, if you want to get your hands dirty, please click [HERE](./DevelopmentProcess.md)
 
