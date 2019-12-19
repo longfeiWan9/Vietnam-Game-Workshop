@@ -77,7 +77,7 @@
 
      First, add a `launch.json` for debugging Neo contract.
 
-     ![debugConfig](.\images\debugConfig.png)
+     ![debugConfig](./images/debugConfig.png)
 
      Then you can debug your contract like debugging any other program. 
 
@@ -124,6 +124,8 @@ Now we have our Neo Private Network running, and a nep5 token deployed. It is ti
 
 2. ##### Download and Import [neo-lux unity package](https://github.com/CityOfZion/neo-lux/raw/master/Unity/Neo.Lux.0.7.5.unitypackage)(`./neo-lux-master/Unity`) into your project;
 
+   ![unity-import](./images/unity-import.png)
+   
    ![unity-import](./images/unity-neolux.png)
 
 3. ##### Creating Script (GameRPC) to connect to Neo privateNet.
@@ -142,7 +144,7 @@ Now we have our Neo Private Network running, and a nep5 token deployed. It is ti
 
    + Then wire the NeoManager scipt and text UI to it by draging them to the corresponding fields.
 
-     ![unity-1](.\images\unity-1.png)
+     ![unity-1](./images/unity-1.png)
 
 6. ##### Creating Script to earn nep5 token based on your score and adding UI component as well.
 
