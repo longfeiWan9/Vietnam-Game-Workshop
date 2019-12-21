@@ -70,7 +70,7 @@
      dotnet publish
      
      cd .\bin\Debug\netstandard2.0\publish\
-     neon nep5.dll --compatible
+     neon-de nep5.dll --compatible
      ```
 
    + Debug your contract
